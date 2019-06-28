@@ -17,7 +17,7 @@ First, follow the [quickstart guide](quickstart.md) to enable the API for your
 project, generate an API key, and ensure you're able to make a successful
 request.
 
-### Quota and character length Limits
+### Quota and character length limits
 
 You can check your quota limits by going to [your google cloud project's Perspective API page](https://console.cloud.google.com/apis/api/commentanalyzer.googleapis.com/quotas), and check
 your project's quota usage at
